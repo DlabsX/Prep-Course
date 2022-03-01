@@ -7,7 +7,7 @@ const nuevaString = "Dalton";
 const nuevoNum = 34;
 
 // Crea una variable booleana:
-const nuevoBool = false;
+const nuevoBool = true;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
@@ -28,7 +28,7 @@ const nuevoModulo = 21 % 5 === null;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  
+  return "str";
 }
 
 function suma(x, y) {
